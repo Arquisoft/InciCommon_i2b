@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: InciCommon_i2b
+Implementation-Version: 0.0.1-pre-alpha
+Built-By: Sergio
+Implementation-Vendor-Id: Inci_i2b
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/InciCommon_i2b
+Created-By: Maven Integration for Eclipse
+
